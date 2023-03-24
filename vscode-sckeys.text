@@ -1,0 +1,22 @@
+Open VS code Keyboard Shortcut keys                 Ctrl K + Ctrl S
+Open terminal                                       Ctrl + ~
+Open Vs code in terminal                            Code . FileName
+Move a line of code up or down                      Alt + UpArrow or DownArrow
+To copy paste and cut a line                        Place cursor in the line and Ctrl + C, Ctrl + V, Ctrl + X,
+To create duplicate lines + Paragraphs              Alt + Shift + DownArrow (Select line or multiple lines with Ctrl + L)
+Select multiple points to write code                Alt + Cursor
+Add a new cursor above or below current position    Ctrl + Alt + Up Ctrl + Alt + Down
+Select single or mutiple items and Rename           Ctrl + D (each time to select further)
+Select All instances of the Word Rename             Ctrl + Shift + L
+Comments, highlight all for multiple                Ctrl + / 
+Command pallete, search for files,                  Ctrl + P
+Code Navigation (go to line)                        Ctrl + G
+Command pallete, run different commmands            Ctrl + Shift + P
+Select all occurance of words                       Ctrl + Shift + L (each time to select further)
+Opening and closing side bar                        Ctrl + b
+Auto recmendtion / diff methods to fill in at time  Ctrl + Space
+Built in Emmet abbv, snippets and expansion         (div+article>ul>li*3>span.helloworld$) or p10 for padding of 10 pixel as exmpl
+Built in Emmet abbv, snippets and expansion         div.className#IdName
+Word Wrap                                           Alt + Z
+
+
